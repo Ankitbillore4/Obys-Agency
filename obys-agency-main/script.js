@@ -214,6 +214,7 @@ function footerAnimation() {
   })
 }
 
+
 loadingAnimation();
 cursorAnimation();
 locomotiveAnimation();
